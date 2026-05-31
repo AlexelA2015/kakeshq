@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(204, 245, 92);
+
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    border: solid red;
+}
